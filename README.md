@@ -1,4 +1,4 @@
-# Image Recognition with Deep Learning
+# Cat and Dog Image Recognition with Deep Learning
 
 This project implements a Convolutional Neural Network (CNN) for image recognition using TensorFlow and Keras. The CNN model is trained to classify images as either cats or dogs. The project includes a Streamlit web application for user-friendly interaction and real-time image classification.
 
@@ -114,3 +114,22 @@ The trained model is deployed using Streamlit, providing an interactive web inte
 ## Acknowledgements
 - Thank you to the TensorFlow and Keras teams for their deep learning frameworks.
 - Thanks to Streamlit for providing a straightforward way to build interactive web applications.
+
+# Screenshorts
+- **Traing and Loss Visualization:**
+  ![Screenshot (110)](https://github.com/user-attachments/assets/82faa7b0-2b9a-4aa0-8e2f-82aa486600ac)
+  
+- **App Running:**
+  ![Screenshot (111)](https://github.com/user-attachments/assets/eab5fa5d-404d-44ca-a257-8d7025286407)
+
+- **Select Image:**
+  ![Screenshot (112)](https://github.com/user-attachments/assets/315a1dbf-6db1-45dd-a0f1-38296309d3ba)
+
+- **Dog Prediction:**
+  ![Screenshot (113)](https://github.com/user-attachments/assets/18bcabf7-3e98-4718-9cde-1b67e971bb7b)
+  ![Screenshot (114)](https://github.com/user-attachments/assets/f94a77fe-fead-49bf-ad43-1968933b0890)
+
+- **Cat Prediction:**
+  ![Screenshot (115)](https://github.com/user-attachments/assets/af2a3f00-f86c-4702-8958-05ed17738d68)
+  ![Screenshot (116)](https://github.com/user-attachments/assets/0eaf7475-c9bd-45c2-9c5e-e9cf0270b103)
+
